@@ -1,6 +1,6 @@
 - name: play level variables
   hosts: web
-  connection: web
+  #connection: web
   vars:
     COURSE: "DevOps with AWS"
     DURATION: "140HRS"
